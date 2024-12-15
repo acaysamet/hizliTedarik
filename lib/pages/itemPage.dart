@@ -85,7 +85,7 @@ class ItemPage extends StatelessWidget {
                     ),
                     SizedBox(height: 15),
                     Text(
-                      "Kaynak makinesi, metal parçalarını birleştirmek için kullanılan bir cihazdır. Bu makine, iki veya daha fazla metal parçayı yüksek ısı ile eriterek birbirine kaynaştırır.",
+                      "Fiat Egea 2024 Model",
                       style: TextStyle(
                         color: Color(0xFF475269),
                         fontSize: 17,
